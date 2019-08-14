@@ -1,5 +1,5 @@
 {
-  "name": "semantic/dropdown",
+  "name": "fomantic/dropdown",
   "description": "Single component release of dropdown",
   "homepage": "http://www.semantic-ui.com",
   "authors": [{
@@ -10,5 +10,5 @@
   }],
   "keywords": ["semantic", "ui", "css", "framework"],
   "license": "MIT",
-  "version": "2.4.1"
+  "version": "2.7.7"
 }
